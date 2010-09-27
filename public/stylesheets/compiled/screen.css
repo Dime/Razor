@@ -374,13 +374,13 @@ input:invalid, textarea:invalid {
   background-color: #f0dddd;
 }
 
-/* line 1, ../../../app/stylesheets/partials/_shared.sass */
+/* line 1, ../../../app/stylesheets/partials/pages/_shared.sass */
 #container {
   width: 100%;
   z-index: 0;
 }
 
-/* line 5, ../../../app/stylesheets/partials/_shared.sass */
+/* line 5, ../../../app/stylesheets/partials/pages/_shared.sass */
 .wrapper {
   margin: 0 auto;
   width: 960px;
